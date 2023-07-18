@@ -60,3 +60,4 @@ C:\Users\leoso\source\repos\poo\poo\bin\Debug\net6.0-windows\runtimes\win-x64\na
 C:\Users\leoso\source\repos\poo\poo\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
 C:\Users\leoso\source\repos\poo\poo\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
 C:\Users\leoso\source\repos\poo\poo\obj\Debug\net6.0-windows\poo.csproj.CopyComplete
+C:\Users\leoso\source\repos\poo\poo\obj\Debug\net6.0-windows\poo.Properties.Resources.resources

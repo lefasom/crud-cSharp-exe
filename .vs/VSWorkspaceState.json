@@ -1,11 +1,7 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\poo",
-    "\\poo\\dao",
-    "\\poo\\models",
-    "\\poo\\views"
+    ""
   ],
-  "SelectedNode": "\\poo\\views\\Menu.cs",
+  "SelectedNode": "\\poo.sln",
   "PreviewInSolutionExplorer": false
 }
